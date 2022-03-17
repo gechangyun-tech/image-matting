@@ -1,5 +1,5 @@
 # Image-matting
-This project is to separate the foreground and background of the image.
+This project is to separate the foreground and background of the image. This word is developed with HuangYangjie
 
 # Install
 
